@@ -20,4 +20,5 @@ char board[8][8] = {
 };
 print_chessboard(board);
 return (0);
+
 }
